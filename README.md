@@ -1,15 +1,16 @@
 # Hey all! <img src= "https://media2.giphy.com/media/Lm5hxmmI6ucOQGfjKj/giphy.gif?cid=6c09b952o9xti0m387z597k2xqipch3qmqjydym98oef87ve&rid=giphy.gif&ct=s" width= "30" height= "30"> <img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "30" height= "30">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+This+is+Pankaj+Kandpal!;I'm+a+learning+developer...;And+I'm+a+proud+GitHub+user)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+This+is+Sunil+Sahu!;I'm+a+learning+developer...;And+I'm+a+proud+GitHub+user)](https://git.io/typing-svg)
 
 ### 🤵 About Me:
-- 🤔 I’m currently open for a new job opportunity, <a href="https://drive.google.com/drive/folders/1BMi1ien7l-GdsrYODpWg9FW1SwUvG_JF">LINK TO MY RESUME</a>.
+
+- 🤔 I’m currently open for a new job opportunity, <a href="https://drive.google.com/drive/u/0/my-drive">LINK TO MY RESUME</a>.
 - 🌱 I’m currently learning react.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💬 Talk to me about JavaScript, MERN stack.
 - 😄 Pronouns: He/Him
--  :nerd_face: Always `learning new things`
+- :nerd_face: Always `learning new things`
 - 👯 Exploring new technologies and developing programming insights.
-- ✉️  You can shoot me an email at pkandpal28@gmail.com! I'll try to respond as soon as I can.
+- ✉️ You can shoot me an email at sunilbrown89@gmail.com! I'll try to respond as soon as I can.
 
 <div align="center">
   
@@ -27,32 +28,19 @@
   
   </div>
 
-  <p align="center"><i><b>Git Stats</b></i></p>
-  <div align="center" >
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=pankajnandi&show_icons=true&theme=dark" alt="Pankaj Kandpal's Github Stats"><br/>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pankajnandi&theme=dark" alt="Pankaj Kandpal's Github Streak Stats">
- 
-
 ## 🌐Socials
-<a href="https://www.linkedin.com/in/kandpalpankaj/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:pkandpal28@gmail.com?subject=Hi"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-<a href="https://twitter.com/PankajKandpal96"><img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+
+<a href="https://www.linkedin.com/in/sunil-sahu-9b0974228/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:sunilbrown89@gmail.com?subject=Hi"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/sunil-sahu-9b0974228/"><img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+
 <!--<a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
 </div>
 
-### Thank you for visiting my profile 🤓 
------
-Credits: [PKandpal](https://github.com/pankajnandi)
+### Thank you for visiting my profile 🤓
 
-Last Edited on: 19/04/2022
+---
 
+Credits: [Sunil Sahu](https://github.com/sunilbrown89)
 
-
-
-
-
-
-
-
-
-
+Last Edited on: 29/05/2022
