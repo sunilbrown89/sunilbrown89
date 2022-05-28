@@ -4,7 +4,7 @@
 
 ### 🤵 About Me:
 
-- 🤔 I’m currently open for a new job opportunity, <a href="https://drive.google.com/drive/u/0/my-drive">LINK TO MY RESUME</a>.
+- 🤔 I’m currently open for a new job opportunity, <a href="https://drive.google.com/drive/folders/1BMi1ien7l-GdsrYODpWg9FW1SwUvG_JF">LINK TO MY RESUME</a>.
 - 🌱 I’m currently learning react.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💬 Talk to me about JavaScript, MERN stack.
 - 😄 Pronouns: He/Him
@@ -28,15 +28,19 @@
   
   </div>
 <div align="center">
+
 ## 🌐Socials
-</div>
+
+<div>
 <div align="center">
+
 <a href="https://www.linkedin.com/in/sunil-sahu-9b0974228/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:sunilbrown89@gmail.com?subject=Hi"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 <a href="https://www.linkedin.com/in/sunil-sahu-9b0974228/"><img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 
 <!--<a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
-</div>
+
+<div>
 
 ### Thank you for visiting my profile 🤓
 
