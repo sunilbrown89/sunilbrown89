@@ -32,6 +32,9 @@
 <!--<a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
 
 </div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunilbrown89&show_icons=true&locale=en&layout=compact" alt="sunilbrown89" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sunilbrown89&show_icons=true&locale=en" alt="sunilbrown89" /></p>
 
 ### Thank you for visiting my profile 🤓
 
