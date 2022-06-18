@@ -1,7 +1,11 @@
 # Hey all! <img src= "https://media2.giphy.com/media/Lm5hxmmI6ucOQGfjKj/giphy.gif?cid=6c09b952o9xti0m387z597k2xqipch3qmqjydym98oef87ve&rid=giphy.gif&ct=s" width= "30" height= "30"> <img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "30" height= "30">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+This+is+Sunil+Sahu!;I'm+a+learning+developer...;And+I'm+a+proud+GitHub+user)](https://git.io/typing-svg)
-<img src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" alt="kylie" width="400" align="right"/>
+
+<img src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" alt="kylie" width="400" align="right"/>
+
+
+
 ### 🤵 About Me:
 
 - 🤔 I’m currently open for a new job opportunity, <a href="https://drive.google.com/drive/folders/1BMi1ien7l-GdsrYODpWg9FW1SwUvG_JF">LINK TO MY RESUME</a>.
@@ -23,6 +27,8 @@
 ![Redux](https://img.shields.io/badge/redux-%231572B6.svg?style=for-the-badge&logo=redux&logoColor=white)
 <img src="https://camo.githubusercontent.com/202a58d250ff1d21ee70433e0070b55f8fed747f8883c1750742aa791b1ad871/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3035313232413f7374796c653d666c6174266c6f676f3d676974687562" height="28"/>
 
+<!--   <img src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" align="right" width="40%" height=28" /> -->
+  
 ### 🌐Socials
 
 <a href="https://www.linkedin.com/in/sunil-sahu-9b0974228/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
@@ -32,8 +38,20 @@
 <!--<a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
 
 </div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunilbrown89&show_icons=true&locale=en&layout=compact" alt="sunilbrown89" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sunilbrown89&show_icons=true&locale=en" alt="sunilbrown89" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sunilbrown89&show_icons=true&locale=en&theme=radical" alt="sunilbrown89" /></p>
+
+ 
+
+ 
+
+ 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityasekharbej&show_icons=true&locale=en&layout=compact&theme=radical" alt="sunilbrown89" /></p>&nbsp;
+
+<br/>
+
+[![Sunil's's github activity graph](https://activity-graph.herokuapp.com/graph?username=sunilbrown89&theme=react-dark)](https://github.com/sunilbrown89/github-readme-activity-graph)
+
 
 ### Thank you for visiting my profile 🤓
 
