@@ -50,7 +50,7 @@
 
 <br/>
 
-[![Sunil's's github activity graph](https://activity-graph.herokuapp.com/graph?username=sunilbrown89&theme=react-dark)](https://github.com/sunilbrown89/github-readme-activity-graph)
+[![Sunil's's github activity graph](https://activity-graph.herokuapp.com/graph?username=adityasekharbej&theme=react-dark)](https://github.com/sunilbrown89/github-readme-activity-graph)
 
 
 ### Thank you for visiting my profile 🤓
