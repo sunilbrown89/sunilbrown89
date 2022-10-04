@@ -8,7 +8,7 @@
 
 ### 🤵 About Me:
 
-- 🤔 I’m currently open for a new job opportunity, <a href="https://drive.google.com/drive/folders/1BMi1ien7l-GdsrYODpWg9FW1SwUvG_JF">LINK TO MY RESUME</a>.
+- 🤔 I’m currently open for a new job opportunity, <a href="https://drive.google.com/file/d/122bQC76QGipzbFbuCEOI9ufLUymMIPud/view?usp=sharing">LINK TO MY RESUME</a>.
 - 🌱 I’m currently learning react.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💬 Talk to me about JavaScript, MERN stack.
 - 😄 Pronouns: He/Him
