@@ -9,7 +9,9 @@
 ### 🤵 About Me:
 
 - 🤔 I’m currently open for a new job opportunity, <a href="https://drive.google.com/file/d/1hocdFltMy3lzt-jjTw_oGSxFu2IySxOk/view?usp=sharing">LINK TO MY RESUME</a>.
-- 🌱 I’m currently learning react.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🌱 Full-stack Developer with 1+ years of experience specializing in the MERN stack. Proficient in both front-end and back-end
+development. I have a genuine passion for building applications and have proven to be skilled in this endeavor. Recognized for my
+ability to adapt to new frameworks and tools swiftly.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💬 Talk to me about JavaScript, MERN stack.
 - 😄 Pronouns: He/Him
 - :nerd_face: Always `learning new things`
