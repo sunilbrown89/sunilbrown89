@@ -9,8 +9,8 @@
 ### 🤵 About Me:
 
 - 🤔 I’m currently open for a new job opportunity, <a href="https://drive.google.com/file/d/1hocdFltMy3lzt-jjTw_oGSxFu2IySxOk/view?usp=sharing">LINK TO MY RESUME</a>.
-- 🌱 Experienced in React, Next.js, Node.js.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 💬 Talk to me about JavaScript, MERN stack.
+- 🌱 Experienced in Havascript, Typescript, React, Next.js, Node.js.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 💬 Talk to me about MERN stack.
 - 😄 Pronouns: He/Him
 - :nerd_face: Always `learning new things`
 - 👯 Exploring new technologies and developing programming insights.
