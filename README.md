@@ -24,8 +24,9 @@
   
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%234ea94b.svg?style=for-the-badge&logo=firebase&logoColor=white)
+![AWS](https://img.shields.io/badge/Aws-%234ea94b.svg?style=for-the-badge&logo=aws&logoColor=white)
 ![React](https://img.shields.io/badge/react-%231572B6.svg?style=for-the-badge&logo=react&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%231572B6.svg?style=for-the-badge&logo=redux&logoColor=white) ![Next](https://img.shields.io/badge/next-%231572B6.svg?style=for-the-badge&logo=next&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%231572B6.svg?style=for-the-badge&logo=redux&logoColor=black) ![NextJs](https://img.shields.io/badge/nextjs-%231572B6.svg?style=for-the-badge&logo=nextjs&logoColor=white)
 
 
 <!--   <img src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" align="right" width="40%" height=28" /> -->
