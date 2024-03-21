@@ -58,9 +58,9 @@
 
 
 
-[![Sunil's's github activity graph](https://activity-graph.herokuapp.com/graph?username=sunilbrown89&theme=react-dark)](https://github.com/sunilbrown89/github-readme-activity-graph)
 
 
+[![Sunil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sunilbrown89&bg_color=12080d&color=b12fa9&line=659e4c&point=b95555&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ### Thank you for visiting my profile 🤓
 
 ---
